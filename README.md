@@ -1,4 +1,4 @@
-#Pacman Game
+# Pacman Game
 
 A classic Pacman game implemented in Java using `JTable` for rendering. The game features procedurally generated levels, a high score system, and a simple graphical interface.
 
